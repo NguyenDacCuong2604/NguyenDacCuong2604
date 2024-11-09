@@ -26,14 +26,18 @@
      <a href="https://www.youtube.com/channel/UCWKTeKUQS3TxUuwOLHOpung">
     <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCWKTeKUQS3TxUuwOLHOpung?style=flat&logo=youtube" >
   </a>
+    </a>
+     <a href="https://leetcode.com/u/nguyendaccuong2002/">
+    <img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&labelColor=FFA116&logo=leetcode&logoColor=white&link=https://leetcode.com/u/nguyendaccuong2002/" >
+  </a>
 </p>
 <p>
 <a href="#daccuong-title">
   <img src="https://github-readme-stats.vercel.app/api?username=NguyenDacCuong2604&theme=blue-green" alt="stats"/>
 </a>
-<a href="#daccuong-title">
+<!-- <a href="#daccuong-title">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenDacCuong2604&theme=blue-green" alt="streak" />
-</a>
+</a> -->
 <br>
 
 <h2 align="left" id="daccuong-tech">Favorite Tech</h2>
